@@ -9,3 +9,8 @@ PS: 迷你的机械键盘，刚开始真是让手抽的不行。
 but long time ago. :)
 
 Happy a good day.
+
+2015 Learn hard... o_O [a hard way](http://www.jb51.net/shouce/Pythonbbf/latest/index.html)
+
+
+![python 万能图](14296978024588.png)

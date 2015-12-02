@@ -2,6 +2,7 @@
 # #coding: utf-8
 # 中文注释问题，你敢信？？？两种方式都行
 
+print u"一些字符串输出方式"
 print "Whatever you doing?"
 print "Learn the Python,"
 print "and just learn 'How to input with mini keyboard, is so anti Human!'"
